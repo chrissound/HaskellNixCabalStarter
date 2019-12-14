@@ -7,4 +7,5 @@ dependencies:
 - base >=4.12 && <4.13
 executables:
   app:
+    source-dirs: src
     main: Main.hs
